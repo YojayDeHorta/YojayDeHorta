@@ -24,7 +24,9 @@
 
 - 🔭 I’m currently working on Vuejs/NodeJs/Express/TS
 - 🌱 I’m currently learning ReactJS/Angular
-
+<div>
+        <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YojayDeHorta&layout=compact&text_color=daf7dc&bg_color=151515&hide=CSS">
+  </div>
 <br>
 <!--
 **YojayDeHorta/YojayDeHorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
