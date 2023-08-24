@@ -13,7 +13,7 @@
   ## About me &#128513;
   <p>
   <b>
-  I am Yojay a passionate about fullstack development, I work on my projects with Vue a front framework that I really like.
+  I am Yojay 😊 a passionate about fullstack development, I work on my projects with Vue a front framework that I really like.
   I'm currently learning reactjs.
   i like to learn new technology and update myself. i also like to contribute in open sources projects
 
